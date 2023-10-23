@@ -1,4 +1,4 @@
-<h1> 👾👾👾  42BCN  👾👾👾 </h1>
+<h1> 👾42BCN👾 </h1>
 
 [![gmacias-'s 42 stats](https://badge42.vercel.app/api/v2/clkwd79fb001608l4ezzxk0x6/stats?cursusId=21&coalitionId=206)](https://github.com/JaeSeoKim/badge42)
 
